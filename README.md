@@ -7,4 +7,4 @@ Install:
 - set options you like (see screenshot)
 
 
-![alt tag](https://raw.github.com/livelongandprosper/oxid_dont_suggest/blob/master/Screenshot.png)
+![alt tag](https://raw2.github.com/livelongandprosper/oxid_dont_suggest/master/screenshot.png)
