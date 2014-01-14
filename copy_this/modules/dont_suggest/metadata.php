@@ -27,7 +27,7 @@
  */
 $aModule = array(
     'id'           => 'dont_suggest',
-    'title'        => 'Deaktivierung der Funktion "Artikel empfehlen"',
+    'title'        => 'Deaktivierung von verschiedenen E-Mail-Versandmethoden',
     'description'  => '',
     'thumbnail'    => '',
     'version'      => '0.1',

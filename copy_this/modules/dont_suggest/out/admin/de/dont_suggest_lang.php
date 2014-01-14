@@ -10,9 +10,10 @@ $aLang = array(
 	'SHOP_MODULE_dont_suggest_suggest'				=> 'Artikel empfehlen E-Mail-Versand deaktivieren',
 	'SHOP_MODULE_dont_suggest_invite'				=> 'Freunde einladen E-Mail-Versand deaktivieren',
 	'SHOP_MODULE_dont_suggest_pricealert'			=> 'Preisalarm E-Mail-Versand deaktivieren',
-	'HELP_SHOP_MODULE_dont_suggest_suggest'				=> 'Artikel empfehlen E-Mail-Versand deaktivieren',
-	'HELP_SHOP_MODULE_dont_suggest_invite'				=> 'Freunde einladen E-Mail-Versand deaktivieren',
-	'HELP_SHOP_MODULE_dont_suggest_pricealert'			=> 'Preisalarm E-Mail-Versand deaktivieren',
+
+	'HELP_SHOP_MODULE_dont_suggest_suggest'			=> 'Achtung: Entfernt nicht die entsprechenden Seiten aus dem Shop-Front-End.',
+	'HELP_SHOP_MODULE_dont_suggest_invite'			=> 'Achtung: Entfernt nicht die entsprechenden Seiten aus dem Shop-Front-End.',
+	'HELP_SHOP_MODULE_dont_suggest_pricealert'		=> 'Achtung: Entfernt nicht die entsprechenden Seiten aus dem Shop-Front-End.',
 );
 
 ?>

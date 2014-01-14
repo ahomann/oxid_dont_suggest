@@ -4,6 +4,7 @@ oxid_dont_suggest
 Install:
 - copy files in folder copy_this to shop root directory
 - activate module
+- clear tmp folder
 - set options you like (see screenshot)
 
 
